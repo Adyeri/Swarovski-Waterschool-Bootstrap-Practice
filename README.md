@@ -35,4 +35,3 @@ Feel free to look around the current [Waterschool](http://www.swarovskigroup.com
 * [Bootstrap](http://www.getbootstrap.com)
 * [Materialize](http://materializecss.com/)
 
-<a href='https://learn.co/lessons/kwk-css-waterschool' data-visibility='hidden'>View this lesson on Learn.co</a>

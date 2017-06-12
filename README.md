@@ -20,7 +20,7 @@ Choose from:
 + Los Angeles or California
 + Your Hometown
 
-Feel free to look around the current [Waterschool](http://www.swarovskigroup.com/S/aboutus/Swarovski_Waterschool.en.html) website to gather information and get ideas - but make sure that the layout and design of your site is as different as possible!
+Feel free to look around the current [Waterschool](http://www.swarovskiwaterschool.com/) website to gather information and get ideas - but make sure that the layout and design of your site is as different as possible!
 
 
 ### Steps:
